@@ -1,0 +1,43 @@
+            <div className="p-3 relative overflow-hidden group h-100 lg:h-130">
+              <Image
+                src={speakerImg1}
+                alt="speakersImg"
+                className="w-full h-full rounded-md object-cover"
+              />
+              <ul className="space-y-2 absolute right-6 bottom-5 opacity-0 translate-y-10 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500">
+                <li className="text-(--prim) bg-white hover:bg-(--prim) hover:text-(--prim) w-fit p-2 rounded-full cursor-pointer transition-colors duration-300">
+                  <Link href="https://www.facebook.com/">
+                    <Icon icon="mage:facebook" width="24" height="24" />
+                  </Link>
+                </li>
+                <li className="text-(--prim) bg-white hover:bg-(--prim) hover:text-(--prim) w-fit p-2 rounded-full cursor-pointer transition-colors duration-300">
+                  <Link href="https://x.com/">
+                    <Icon icon="mage:x" width="24" height="24" />
+                  </Link>
+                </li>
+                <li className="text-(--prim) bg-white hover:bg-(--prim) hover:text-(--prim) w-fit p-2 rounded-full cursor-pointer transition-colors duration-300">
+                  <Link href="https://www.instagram.com/">
+                    <Icon icon="mdi:instagram" width="24" height="24" />
+                  </Link>
+                </li>
+                <li className="text-(--prim) bg-white hover:bg-(--prim) hover:text-(--prim) w-fit p-2 rounded-full cursor-pointer transition-colors duration-300">
+                  <Link href="https://www.youtube.com/">
+                    <Icon icon="mage:youtube" width="24" height="24" />
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="flex justify-between items-center px-10 py-5">
+              <div>
+                <h4 className="text-xl md:text-lg font-semibold pb-1 hover:text-(--prim) transition-colors duration-300 cursor-pointer">
+                  Sophia Rodrigues
+                </h4>
+                <p className="text-gray-500">Global Marketing Director</p>
+              </div>
+              <Link
+                href="#"
+                className="w-12 h-12 rounded-full hover:bg-black transition-colors duration-300 cursor-pointer"
+              >
+                <Image src={speakerIcon} alt="speakerIcon" />
+              </Link>
+            </div>

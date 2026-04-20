@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "/speaker-1.jpg",
+    "name": "Sophia Rodrigues",
+    "role": "Global Marketing Director",
+    "socials": [
+      { "icon": "mage:facebook", "link": "https://www.facebook.com/" },
+      { "icon": "mage:x", "link": "https://x.com/" },
+      { "icon": "mdi:instagram", "link": "https://www.instagram.com/" },
+      { "icon": "mage:youtube", "link": "https://www.youtube.com/" }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/speaker-2.jpg",
+    "name": "Jacob Jones",
+    "role": "Lead AI Research Scientist",
+    "socials": [
+      { "icon": "mage:facebook", "link": "https://www.facebook.com/" },
+      { "icon": "mage:x", "link": "https://x.com/" },
+      { "icon": "mdi:instagram", "link": "https://www.instagram.com/" },
+      { "icon": "mage:youtube", "link": "https://www.youtube.com/" }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/speaker-3.jpg",
+    "name": "Arlene McCoy",
+    "role": "Innovation Strategy Expert",
+    "socials": [
+      { "icon": "mage:facebook", "link": "https://www.facebook.com/" },
+      { "icon": "mage:x", "link": "https://x.com/" },
+      { "icon": "mdi:instagram", "link": "https://www.instagram.com/" },
+      { "icon": "mage:youtube", "link": "https://www.youtube.com/" }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/speaker-4.jpg",
+    "name": "Esther Howard",
+    "role": "Global Marketing Director",
+    "socials": [
+      { "icon": "mage:facebook", "link": "https://www.facebook.com/" },
+      { "icon": "mage:x", "link": "https://x.com/" },
+      { "icon": "mdi:instagram", "link": "https://www.instagram.com/" },
+      { "icon": "mage:youtube", "link": "https://www.youtube.com/" }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/speaker-5.jpg",
+    "name": "Floyd Miles",
+    "role": "Lead AI Research Scientist",
+    "socials": [
+      { "icon": "mage:facebook", "link": "https://www.facebook.com/" },
+      { "icon": "mage:x", "link": "https://x.com/" },
+      { "icon": "mdi:instagram", "link": "https://www.instagram.com/" },
+      { "icon": "mage:youtube", "link": "https://www.youtube.com/" }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/speaker-6.jpg",
+    "name": "Arlene McCoy",
+    "role": "Innovation Strategy Expert",
+    "socials": [
+      { "icon": "mage:facebook", "link": "https://www.facebook.com/" },
+      { "icon": "mage:x", "link": "https://x.com/" },
+      { "icon": "mdi:instagram", "link": "https://www.instagram.com/" },
+      { "icon": "mage:youtube", "link": "https://www.youtube.com/" }
+    ]
+  }
+]

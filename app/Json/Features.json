@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icon": "/features-icon01.svg",
+    "title": "Event Planning Manage",
+    "description": "Ensure smooth event planning with modern tools and smart coordination for better audience engagement."
+  },
+  {
+    "id": 2,
+    "icon": "/features-icon02.svg",
+    "title": "Conference Coordination",
+    "description": "Organize conferences efficiently with seamless workflows and tools that enhance communication and teamwork."
+  },
+  {
+    "id": 3,
+    "icon": "/features-icon03.svg",
+    "title": "Venue Booking & Setup",
+    "description": "Manage venue booking and setup with precision using reliable systems designed for smooth event execution."
+  },
+  {
+    "id": 4,
+    "icon": "/features-icon04.svg",
+    "title": "Post-Event Analytics",
+    "description": "Analyze event performance with detailed insights and tools that help improve future planning strategies."
+  },
+  {
+    "id": 5,
+    "icon": "/features-icon05.svg",
+    "title": "Fast Response Time",
+    "description": "Experience quick responses and efficient support to ensure your event runs smoothly without delays."
+  },
+  {
+    "id": 6,
+    "icon": "/features-icon06.svg",
+    "title": "Real-Time Support",
+    "description": "Get instant assistance during your events with real-time support designed to handle any situation effectively."
+  },
+  {
+    "id": 7,
+    "icon": "/features-icon07.svg",
+    "title": "Advanced Technical Setup",
+    "description": "Leverage cutting-edge technology and professional setups to deliver a seamless and high-quality event experience."
+  },
+  {
+    "id": 8,
+    "icon": "/features-icon08.svg",
+    "title": "User-Friendly Platform",
+    "description": "Enjoy an intuitive and easy-to-use platform that simplifies event management for organizers and participants alike."
+  }
+]

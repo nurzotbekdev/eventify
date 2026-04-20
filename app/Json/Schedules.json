@@ -1,0 +1,22 @@
+[
+  { "id": 1, "day": "day1", "date": "12 April 2026", "image": "/schedules-image01.jpg", "time": "8 AM - 4 PM", "place": "Sterling Conference Hall", "title": "Creative Entrepreneurship Forum" },
+  { "id": 2, "day": "day1", "date": "09 April 2026", "image": "/schedules-image02.jpg", "time": "10 AM - 6 PM", "place": "Crescent Academy", "title": "Global HR Excellence Workshop" },
+  { "id": 3, "day": "day1", "date": "15 April 2026", "image": "/schedules-image03.jpg", "time": "7:30 AM - 3 PM", "place": "Emerald Royale Hall", "title": "Sustainable Business Leadership Meet" },
+  { "id": 4, "day": "day1", "date": "11 April 2026", "image": "/schedules-image04.jpg", "time": "8:30 AM - 5 PM", "place": "Nova Training Arena", "title": "Tech Innovators Bootcamp" },
+  { "id": 5, "day": "day1", "date": "18 April 2026", "image": "/schedules-image05.jpg", "time": "11 AM - 7 PM", "place": "Prime Royale Hall", "title": "Future Finance Strategies Conference" },
+  { "id": 6, "day": "day1", "date": "10 April 2026", "image": "/schedules-image06.jpg", "time": "6 AM - 2:30 PM", "place": "Serenity Grand Hall", "title": "International Productivity Retreat" },
+
+  { "id": 7, "day": "day2", "date": "14 April 2026", "image": "/schedules-image06.jpg", "time": "6 AM - 2:30 PM", "place": "Serenity Grand Hall", "title": "International Productivity Retreat" },
+  { "id": 8, "day": "day2", "date": "16 April 2026", "image": "/schedules-image05.jpg", "time": "11 AM - 7 PM", "place": "Prime Royale Hall", "title": "Future Finance Strategies Conference" },
+  { "id": 9, "day": "day2", "date": "13 April 2026", "image": "/schedules-image04.jpg", "time": "8:30 AM - 5 PM", "place": "Nova Training Arena", "title": "Tech Innovators Bootcamp" },
+  { "id": 10, "day": "day2", "date": "17 April 2026", "image": "/schedules-image01.jpg", "time": "8 AM - 4 PM", "place": "Sterling Conference Hall", "title": "Creative Entrepreneurship Forum" },
+  { "id": 11, "day": "day2", "date": "08 April 2026", "image": "/schedules-image02.jpg", "time": "10 AM - 6 PM", "place": "Crescent Academy", "title": "Global HR Excellence Workshop" },
+  { "id": 12, "day": "day2", "date": "19 April 2026", "image": "/schedules-image03.jpg", "time": "7:30 AM - 3 PM", "place": "Emerald Royale Hall", "title": "Sustainable Business Leadership Meet" },
+
+  { "id": 13, "day": "day3", "date": "07 April 2026", "image": "/schedules-image03.jpg", "time": "7:30 AM - 3 PM", "place": "Emerald Royale Hall", "title": "Sustainable Business Leadership Meet" },
+  { "id": 14, "day": "day3", "date": "20 April 2026", "image": "/schedules-image06.jpg", "time": "6 AM - 2:30 PM", "place": "Serenity Grand Hall", "title": "International Productivity Retreat" },
+  { "id": 15, "day": "day3", "date": "11 April 2026", "image": "/schedules-image05.jpg", "time": "11 AM - 7 PM", "place": "Prime Royale Hall", "title": "Future Finance Strategies Conference" },
+  { "id": 16, "day": "day3", "date": "18 April 2026", "image": "/schedules-image02.jpg", "time": "10 AM - 6 PM", "place": "Crescent Academy", "title": "Global HR Excellence Workshop" },
+  { "id": 17, "day": "day3", "date": "09 April 2026", "image": "/schedules-image04.jpg", "time": "8:30 AM - 5 PM", "place": "Nova Training Arena", "title": "Tech Innovators Bootcamp" },
+  { "id": 18, "day": "day3", "date": "15 April 2026", "image": "/schedules-image01.jpg", "time": "8 AM - 4 PM", "place": "Sterling Conference Hall", "title": "Creative Entrepreneurship Forum" }
+]

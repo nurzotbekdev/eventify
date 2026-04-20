@@ -1,0 +1,62 @@
+[
+  {
+  "id": 1,
+  "image": "/blog-01.jpg",
+  "title": "Mastering Public Speaking: Expert Tips for Confident Presentations",
+  "author": "awaiken",
+  "desc": "Staying safe in everyday life doesn't require advanced martial arts training-just a [...]",
+  "date": "November 28, 2025",
+  "category": "Uncategorized",
+  "arrow-img": "/arrow-icon.svg"
+},
+{
+    "id": 2,
+    "image": "/blog-02.jpg",
+    "title": "Simple Self-Defense Skills Everyone Should Learn for Safety",
+    "author": "awaiken",
+    "desc": "Staying safe in everyday life doesn't require advanced...",
+    "date": "November 28, 2025",
+    "category": "Uncategorized",
+    "arrow-img": "/arrow-icon.svg"
+  },
+  {
+    "id": 3,
+    "image": "/blog-03.jpg",
+    "title": "The Power of Networking: Building Connections That Last",
+    "author": "awaiken",
+    "desc": "Staying safe in everyday life doesn't require advanced...",
+    "date": "November 28, 2025",
+    "category": "Uncategorized",
+    "arrow-img": "/arrow-icon.svg"
+  },
+  {
+    "id": 4,
+    "image": "/blog-04.jpg",
+    "title": "Expert Tips for Planning High-Impact Corporate Conferences",
+    "author": "awaiken",
+    "desc": "Staying safe in everyday life doesn't require advanced...",
+    "date": "November 28, 2025",
+    "category": "Uncategorized",
+    "arrow-img": "/arrow-icon.svg"
+  },
+  {
+    "id": 5,
+    "image": "/blog-05.jpg",
+    "title": "How Successful Conferences Build Strong Professional Networks",
+    "author": "awaiken",
+    "desc": "Staying safe in everyday life doesn't require advanced...",
+    "date": "November 28, 2025",
+    "category": "Uncategorized",
+    "arrow-img": "/arrow-icon.svg"
+  },
+  {
+    "id": 6,
+    "image": "/blog-06.jpg",
+    "title": "Behind the Scenes of World-Class Conference Productionx",
+    "author": "awaiken",
+    "desc": "Staying safe in everyday life doesn't require advanced...",
+    "date": "November 28, 2025",
+    "category": "Uncategorized",
+    "arrow-img": "/arrow-icon.svg"
+  }
+]
